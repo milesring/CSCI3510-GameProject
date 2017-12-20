@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gun
+  - Item
+  - Furniture
+  - Ammo
+  - Spawnable
+  - lPectoral
+  - rPectoral
+  - Equipment
+  - Fire
+  - BackpackSlot
+  - EquippedGun
+  - rHand
+  - HelmetSlot
+  - Ground
+  - Leaderboard
+  - Enemy
+  - Waypoint
+  - Ragdoll
+  - Temporary
+  - RagdollHead
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background-Front
+    uniqueID: 4072249563
+    locked: 0
+  - name: Background-Rear
+    uniqueID: 3762428399
+    locked: 0

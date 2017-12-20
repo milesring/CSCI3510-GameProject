@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTuringTest", "Assembly-CSharp.csproj", "{1FFCA41A-66DB-E256-49D2-9BA66EDAEC7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTuringTest", "Assembly-CSharp-firstpass.csproj", "{D7A5A783-03C2-73F4-ED96-710DA581F33A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTuringTest", "Assembly-CSharp-Editor.csproj", "{C9EAE77A-997F-D742-0BEA-348D9677BE8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FFCA41A-66DB-E256-49D2-9BA66EDAEC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFCA41A-66DB-E256-49D2-9BA66EDAEC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFCA41A-66DB-E256-49D2-9BA66EDAEC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFCA41A-66DB-E256-49D2-9BA66EDAEC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A5A783-03C2-73F4-ED96-710DA581F33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A5A783-03C2-73F4-ED96-710DA581F33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A5A783-03C2-73F4-ED96-710DA581F33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A5A783-03C2-73F4-ED96-710DA581F33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9EAE77A-997F-D742-0BEA-348D9677BE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EAE77A-997F-D742-0BEA-348D9677BE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EAE77A-997F-D742-0BEA-348D9677BE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EAE77A-997F-D742-0BEA-348D9677BE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
